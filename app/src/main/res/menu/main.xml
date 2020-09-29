@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/clockWise"
+        android:title="Clockwase"
+        app:showAction="never"
+        android:item="@mipmap/ic_launcher">
+
+    </item>
+    <item
+        android:id="@+id/slideup"
+        android:title="slideup"
+        app:showAction="never"
+        android:item="@mipmap/ic_launcher">
+
+    </item>
+    <item
+        android:id="@+id/zoom"
+        android:title="Zoom In"
+        app:showAction="never"
+        android:item="@mipmap/ic_launcher">
+
+    </item>
+
+</menu>
